@@ -15,7 +15,7 @@ public:
             if(i%2 == 1) sumOdd += i;
             else sumEven += i;
         }
-        int ans = gcdNum(sumOdd, sumEven);
+        int ans = __gcd(sumOdd, sumEven);
         return  ans;
     }
 };

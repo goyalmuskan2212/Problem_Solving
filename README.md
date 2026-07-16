@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0312-burst-balloons](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0312-burst-balloons) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,9 +19,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

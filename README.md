@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0312-burst-balloons) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0312-burst-balloons](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0312-burst-balloons) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0312-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0485-max-consecutive-ones) |
@@ -34,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0283-move-zeroes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0075-sort-colors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |

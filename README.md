@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0312-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0485-max-consecutive-ones) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3658-gcd-of-odd-and-even-sums) |

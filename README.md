@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0312-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0048-rotate-image) |
+| [0628-maximum-product-of-three-numbers](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation

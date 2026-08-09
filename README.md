@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Counting Sort
 |  |
 | ------- |
@@ -262,9 +263,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [3310-remove-methods-from-project](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 <!---LeetCode Topics End-->

@@ -306,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1192-critical-connections-in-a-network) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

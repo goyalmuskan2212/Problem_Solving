@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -338,5 +339,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

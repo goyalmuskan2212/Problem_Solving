@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -342,10 +344,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->

@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3310-remove-methods-from-project) |
@@ -340,15 +342,18 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0206-reverse-linked-list) |

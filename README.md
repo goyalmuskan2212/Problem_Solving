@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0316-remove-duplicate-letters) |
+| [0844-backspace-string-compare](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0316-remove-duplicate-letters) |
+| [0844-backspace-string-compare](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |

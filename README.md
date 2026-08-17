@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0152-maximum-product-subarray) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0700-search-in-a-binary-search-tree) |

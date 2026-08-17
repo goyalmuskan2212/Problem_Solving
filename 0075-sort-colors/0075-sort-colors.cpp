@@ -5,7 +5,7 @@ public:
         int low = 0;
         int mid = 0;
         int high = n-1;
-        while(low <= mid && mid <= high){
+        while(low<=mid && mid <= high){
             if(nums[mid] == 0){
                 swap(nums[mid], nums[low]);
                 low++;

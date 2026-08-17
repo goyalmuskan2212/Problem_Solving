@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0169-majority-element) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3514-number-of-unique-xor-triplets-ii) |

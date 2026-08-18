@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1563-stone-game-v) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2149-rearrange-array-elements-by-sign) |

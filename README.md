@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1260-shift-2d-grid) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3501-maximize-active-section-with-trade-ii) |

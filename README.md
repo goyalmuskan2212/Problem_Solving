@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |

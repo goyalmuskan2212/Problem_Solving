@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1872-stone-game-viii) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1539-kth-missing-positive-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3501-maximize-active-section-with-trade-ii) |

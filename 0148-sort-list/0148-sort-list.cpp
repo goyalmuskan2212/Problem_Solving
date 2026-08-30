@@ -24,12 +24,14 @@ public:
             }
             dummy = dummy->next;
         }
-        if(left != NULL){
+        while(left != NULL){
             dummy->next = left;
+            dummy = dummy->next;
             left = left->next;
         }
-        else{
+        while(right != NULL){
             dummy->next = right;
+            dummy = dummy->next;
             right = right->next;
         }
         return newDummy->next;

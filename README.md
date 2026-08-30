@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0312-burst-balloons) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Counting Sort
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -586,4 +589,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0268-missing-number) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0328-odd-even-linked-list) |
@@ -576,4 +578,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0572-subtree-of-another-tree) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0486-predict-the-winner) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0877-stone-game) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3310-remove-methods-from-project) |
@@ -612,4 +615,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0148-sort-list) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

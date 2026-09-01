@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0876-middle-of-the-linked-list) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0844-backspace-string-compare](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |

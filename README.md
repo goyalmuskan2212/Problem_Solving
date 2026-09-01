@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1143-longest-common-subsequence) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0316-remove-duplicate-letters) |
+| [0516-longest-palindromic-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0844-backspace-string-compare](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1143-longest-common-subsequence) |

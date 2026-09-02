@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0056-merge-intervals) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Shortest Path
 |  |
@@ -643,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1143-longest-common-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

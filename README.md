@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0213-house-robber-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0072-edit-distance) |
 | [0316-remove-duplicate-letters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |

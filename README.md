@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0486-predict-the-winner) |
+| [0503-next-greater-element-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0704-binary-search) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |

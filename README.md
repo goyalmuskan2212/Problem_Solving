@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0268-missing-number) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |

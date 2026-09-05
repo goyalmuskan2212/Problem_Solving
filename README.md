@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3310-remove-methods-from-project](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory

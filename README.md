@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3310-remove-methods-from-project) |
@@ -472,12 +473,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0802-find-eventual-safe-states) |
 | [1192-critical-connections-in-a-network](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1192-critical-connections-in-a-network) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [3310-remove-methods-from-project](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3310-remove-methods-from-project) |
@@ -666,4 +669,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0051-n-queens) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

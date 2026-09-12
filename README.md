@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3870-count-commas-in-range) |
 ## Number Theory
 |  |
 | ------- |

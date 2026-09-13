@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0940-distinct-subsequences-ii) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1927-sum-game) |
@@ -733,4 +737,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0785-is-graph-bipartite) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->

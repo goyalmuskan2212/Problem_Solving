@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0312-burst-balloons) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -741,4 +745,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->

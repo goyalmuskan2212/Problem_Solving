@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0485-max-consecutive-ones) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0904-fruit-into-baskets) |
@@ -261,11 +264,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3312-sorted-gcd-pair-queries) |
@@ -423,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
@@ -752,4 +758,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

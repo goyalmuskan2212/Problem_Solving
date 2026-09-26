@@ -19,7 +19,7 @@ public:
         int dc[] = {0, 1, 0, -1};
         while(!q.empty()){
             int row = q.front().first.first;
-            int col = q.front().first. second;
+            int col = q.front().first.second;
             int d = q.front().second;
             q.pop();
             for(int i=0; i<4; i++){

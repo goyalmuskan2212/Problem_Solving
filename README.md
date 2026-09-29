@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-stone-game-iv](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## DP on Trees
 |  |
 | ------- |

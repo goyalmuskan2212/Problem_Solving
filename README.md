@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0064-minimum-path-sum) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0115-distinct-subsequences) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0234-palindrome-linked-list) |
@@ -762,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## DP on Trees

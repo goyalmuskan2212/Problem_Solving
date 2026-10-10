@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0785-is-graph-bipartite) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0542-01-matrix) |
+| [0623-add-one-row-to-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0785-is-graph-bipartite) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0450-delete-node-in-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0450-delete-node-in-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0701-insert-into-a-binary-search-tree) |

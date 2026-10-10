@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1539-kth-missing-positive-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |

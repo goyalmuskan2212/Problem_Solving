@@ -1,31 +1,30 @@
 class Solution {
 public:
-    bool dfs(int node, int col, vector<int> &color, vector<int> adj[]){
-        color[node] = col;
-        for(auto adjNode : adj[node]){
-            if(color[adjNode] == col) return false;
-            if(color[adjNode] == -1){
-                if(dfs(adjNode, !col, color, adj) == false){
-                    return false;
-                }
+    bool dfs(int node, vector<int> &vis, vector<int> adj[], vector<int> &color){
+        vis[node] = 1;
+        int col = color[node];
+        for(auto it : adj[node]){
+            if(!vis[it]){
+                color[it] = !col;
+                if(dfs(it, vis, adj, color) == false) return false;
             }
+            else if(color[it] == col) return false;
         }
         return true;
     }
     bool isBipartite(vector<vector<int>>& graph) {
-        int n = graph.size();
-        vector<int> adj[n];
-        for(int i=0; i<n; i++){
-            int size = graph[i].size();
-            for(int j=0; j<size; j++){
+        int V = graph.size();
+        vector<int> adj[V];
+        for(int i=0; i<V; i++){
+            for(int j=0; j<graph[i].size(); j++){
                 adj[i].push_back(graph[i][j]);
             }
         }
-        vector<int> color(n, -1);
-        int col = 0;
-        for(int i=0 ;i<n; i++){
-            if(color[i] == -1){
-                if(dfs(i, col, color, adj) == false) return false;
+        vector<int> vis(V, 0);
+        vector<int> color(V, 0);
+        for(int i=0; i<V; i++){
+            if(!vis[i]){
+                if(dfs(i, vis, adj, color) == false) return false;
             }
         }
         return true;

@@ -1,18 +1,17 @@
 class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
-        int n = grid.size();
-        if (grid[0][0] == 1 || grid[n-1][n-1] == 1) return -1;
-        vector<vector<int>> vis(n ,vector<int>(n, 0));
+        int n =  grid.size();
+        vector<vector<int>> vis(n, vector<int>(n, 0));
+        int dr[] = {-1, -1 ,-1, 0, 1, 1, 1, 0};
+        int dc[] = {-1, 0, 1, 1, 1, 0, -1, -1};
+        if(grid[0][0] == 1 || grid[n-1][n-1] == 1) return -1;
         queue<pair<int, pair<int, int>>> q;
         q.push({1, {0, 0}});
-        vis[0][0] = 1;
-        int dr[] = {-1, -1, -1, 0, 0, 1, 1, 1};
-        int dc[] = {-1, 0, 1, -1 ,1, -1, 0, 1};
         while(!q.empty()){
-            int dis = q.front().first;
             int row = q.front().second.first;
-            int col =  q.front().second.second;
+            int col = q.front().second.second;
+            int dis = q.front().first;
             q.pop();
             if(row == n-1 && col == n-1) return dis;
             for(int i=0; i<8; i++){

@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3312-sorted-gcd-pair-queries) |

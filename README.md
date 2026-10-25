@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0835-image-overlap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1631-path-with-minimum-effort) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0785-is-graph-bipartite](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0802-find-eventual-safe-states](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3310-remove-methods-from-project) |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0802-find-eventual-safe-states](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |

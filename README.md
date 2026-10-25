@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1631-path-with-minimum-effort) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0623-add-one-row-to-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0802-find-eventual-safe-states) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0623-add-one-row-to-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0802-find-eventual-safe-states) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0802-find-eventual-safe-states) |
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Nim Game
@@ -846,5 +851,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->

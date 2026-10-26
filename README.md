@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0877-stone-game) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0835-image-overlap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1254-number-of-closed-islands) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0778-swim-in-rising-water](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1631-path-with-minimum-effort) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1631-path-with-minimum-effort) |
@@ -515,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1510-stone-game-iv) |
@@ -551,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0802-find-eventual-safe-states) |
@@ -577,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0802-find-eventual-safe-states) |
@@ -857,5 +865,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->

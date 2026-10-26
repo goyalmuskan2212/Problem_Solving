@@ -5,7 +5,6 @@ public:
         priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> pq;
         pq.push({grid[0][0], {0, 0}});
         vector<vector<int>> vis(n, vector<int>(n, 0));
-        vector<vector<int>> dist(n, vector<int>(n, 0));
         int dr[] = {-1, 0, 1, 0};
         int dc[] = {0, 1, 0, -1};
         int t = INT_MIN;
@@ -21,7 +20,6 @@ public:
                 int ncol = col + dc[i];
                 if(nrow>=0 && nrow<n && ncol>=0 && ncol<n && vis[nrow][ncol] == 0){
                     vis[nrow][ncol] = 1;
-                    //dist[nrow][ncol] = max(grid[row][col], grid[nrow][ncol]);
                     pq.push({grid[nrow][ncol], {nrow, ncol}});
                 }
             }

@@ -9,6 +9,7 @@ public:
             j = j + 1;
         }
         while(i <= m-1){
+            //Because in prev while j becomes n.
             ans[i][n-1] = '.';
             i = i+1;
         }

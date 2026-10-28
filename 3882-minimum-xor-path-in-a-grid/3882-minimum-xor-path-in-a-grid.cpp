@@ -14,6 +14,7 @@ public:
     int minCost(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
+        //If the problem guarantees that every grid value is in the range(0) to (1023), each value can be represented using 10 bits. 2^{10} = 1024
         vector<vector<vector<int>>> dp(n, vector<vector<int>>(m, vector<int>(1024, -1)));
         return solve(n-1, m-1, 0, grid, dp);
     }

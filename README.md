@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0877-stone-game) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0206-reverse-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory

@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0486-predict-the-winner) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |

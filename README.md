@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2592-maximize-greatness-of-an-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2592-maximize-greatness-of-an-array) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/goyalmuskan2212/Problem_Solving/tree/master/2089-find-target-indices-after-sorting-array) |

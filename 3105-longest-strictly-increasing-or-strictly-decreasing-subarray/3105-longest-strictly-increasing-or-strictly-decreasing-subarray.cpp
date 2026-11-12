@@ -1,36 +1,28 @@
+
 class Solution {
 public:
-    bool sorted(vector<int> &arr){
-        int n = arr.size();
-        for(int i=1; i<n; i++){
-            if(arr[i] <= arr[i-1]){
-                return false;
-            }
-        }
-        return true;
-    }
-    bool sortedRev(vector<int> &arr){
-        int n = arr.size();
-        for(int i=1; i<n; i++){
-            if(arr[i] >= arr[i-1]){
-                return false;
-            }
-        }
-        return true;
-    }
     int longestMonotonicSubarray(vector<int>& nums) {
         int n = nums.size();
-        int len = 0;
-        for(int i=0; i<n; i++){
-            vector<int> ans;
-            for(int j=i; j<n; j++){
-                ans.push_back(nums[j]);
-                if(sorted(ans) || sortedRev(ans)){
-                    int newLen = ans.size();
-                    len = max(len, newLen);
-                }
+        int inc = 1, dec = 1;
+        int ans = 1;
+
+        for (int i = 1; i < n; i++) {
+            if (nums[i] > nums[i - 1]) {
+                inc++;
+                dec = 1;
             }
+            else if (nums[i] < nums[i - 1]) {
+                dec++;
+                inc = 1;
+            }
+            else {
+                inc = 1;
+                dec = 1;
+            }
+
+            ans = max(ans, max(inc, dec));
         }
-        return len;
+
+        return ans;
     }
 };
